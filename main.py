@@ -1,8 +1,9 @@
 #!/usr/bin/python2.7
 def main(msg):
-    //Another comment
-    // Adding a different comment to this file.
-    // Print a message
+    // No longer need comments here
     print(msg)
 
+def secondary():
+    print("New function")
+    
 main("hello people")
